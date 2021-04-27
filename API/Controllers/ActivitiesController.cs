@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Domain;
 using Microsoft.AspNetCore.Mvc;
-using Application.Activites;
-
+using Application.Activities;
 namespace API.Controllers
 {
   public class ActivitiesController : BaseApiController

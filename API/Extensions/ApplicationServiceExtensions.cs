@@ -1,4 +1,4 @@
-using Application.Activites;
+using Application.Activities;
 using Application.Core;
 using MediatR;
 using Microsoft.EntityFrameworkCore;

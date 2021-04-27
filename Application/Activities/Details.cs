@@ -5,7 +5,7 @@ using Domain;
 using MediatR;
 using Persistence;
 
-namespace Application.Activites
+namespace Application.Activities
 {
   public class Details
   {
